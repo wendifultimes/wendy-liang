@@ -21,8 +21,6 @@ I have experience in data analytics, working with diverse datasets and deploying
 1. **[Engagement Analysis between TikTok and Instagram]** - [To understand the relationship between the number of followers and the engagement rate of influencers on TikTok and Instagram.](https://github.com/wendifultimes/Engagement-Analysis-between-TikTok-and-Instagram)
 2. **[Iris Data Analysis]** - [Clustering analysis of the Iris dataset](https://github.com/wendifultimes/Iris-Data-Analysis)
 
-[...more projects]
-
 ---
 
 ### 🌱 Current Learning Goals

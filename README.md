@@ -34,6 +34,6 @@ I have experience in data analytics, working with diverse datasets and deploying
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [Wendy Liang](https://www.linkedin.com/in/wendyliang38/)
-- **Email:** wendyliang386@gmail.com
+- **Email:** wendybliang38@gmail.com
 
 ---
